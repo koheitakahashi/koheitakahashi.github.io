@@ -1,11 +1,11 @@
 ---
 title: UI/UX デザインを学んでみた
-date: 2023-09-02 14:45:00 +0900
+date: 2023-09-04 11:00:00 +0900
 categories: [学習記録]
 tags: [UI/UX, デザイン, 学習記録, 心理学]
 image:
   path: /assets/img/2023-09-04-learned-UIUX-design/preview.png
-  alt:
+  alt: ""
 ---
 
 # はじめに

@@ -1,0 +1,19 @@
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+// Let multiline descriptions determine their height instead of overlapping navigation.
+#sidebar .site-subtitle {
+  height: auto;
+  min-height: 3rem;
+}

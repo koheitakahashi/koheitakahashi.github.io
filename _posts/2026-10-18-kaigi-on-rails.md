@@ -1,9 +1,8 @@
 ---
 title: Kaigi on Rails 参加レポート
-date: 2026-10-18 09:00:00 +1000
+date: 2026-10-18 09:00:00 +0900
 categories: [ふりかえり]
 tags: [Ruby, Rails, Kaigi on Rails, テックカンファレンス]
-published: false
 ---
 
 # はじめに
